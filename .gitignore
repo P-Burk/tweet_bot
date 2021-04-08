@@ -114,4 +114,4 @@ dmypy.json
 .pyre/
 
 # API key file
-*keys.ini
+user keys.ini
